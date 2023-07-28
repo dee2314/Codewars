@@ -6,6 +6,7 @@ Example:
 None of the arrays will be empty, so you don't have to worry about that!
 
  */
+
 //SOLUTION
 function removeEveryOther(arr){
     //your code here
