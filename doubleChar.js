@@ -17,4 +17,4 @@ function doubleChar(str) {
     
     return result
   }
-  
+//charAt means the character directory
