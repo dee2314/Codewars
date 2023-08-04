@@ -6,7 +6,7 @@ A repository filled with Codewars challenges (kata). Push 5 solutions every week
 
 **Tech used:** <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=9751F7&style=plastic&logo=javascript"/>
 
-I start or finish every day by doing a Codewars Challenge!
+I start or finish every day by doing a Codewars Challenge!!
 
 ## Optimizations
 
