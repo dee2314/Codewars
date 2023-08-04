@@ -47,3 +47,9 @@ function findNeedle(haystack) {
   const needleIndex = haystack.indexOf('needle');
   return `found the needle at position ${needleIndex}`
 }
+
+/**Convert number to reversed array of digits
+Given a random non-negative number, you have to return the digits of this number within an array in reverse order. */
+function digitize(n) {
+  return String(n).split('').map(Number).reverse()
+}
