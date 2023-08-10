@@ -174,5 +174,11 @@ function removeEveryOther(arr){
   //your code here
   return arr.filter((element, index) => index % 2 === 0);
 }
-/** */
+/** Bob needs a fast way to calculate the volume of a cuboid with three values: the length, width and height of the cuboid. 
+ * Write a function to help Bob with this calculation.*/
 //SOLUTION
+class Kata {
+  static getVolumeOfCuboid(l, w, h) {
+    return l * w * h;
+  }
+};
