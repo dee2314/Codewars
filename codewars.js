@@ -197,3 +197,21 @@ function positiveSum(arr){
   return sum
 }
 
+/** Find the smallest integer in an array? */
+//SOLUTION
+  class SmallestIntegerFinder {
+    findSmallestInt(args) {
+      return Math.min(...args)
+    }
+  }
+1
+
+/** */
+//SOLUTION
+
+/** */
+//SOLUTION
+
+/** */
+//SOLUTION
+
