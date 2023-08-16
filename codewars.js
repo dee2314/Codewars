@@ -138,6 +138,7 @@ function rowSumOddNumbers(n) {
 	// TODO
   return n * n * n;
 }
+
 /** Write a function that takes an array of numbers and returns the sum of the numbers. The numbers can be negative or non-integer. If the array does not contain any numbers then you should return 0.
 
 Examples
@@ -174,6 +175,7 @@ function removeEveryOther(arr){
   //your code here
   return arr.filter((element, index) => index % 2 === 0);
 }
+
 /** Bob needs a fast way to calculate the volume of a cuboid with three values: the length, width and height of the cuboid. 
  * Write a function to help Bob with this calculation.*/
 //SOLUTION
@@ -182,4 +184,16 @@ class Kata {
     return l * w * h;
   }
 };
-//Good Stuff
+
+/**You get an array of numbers, return the sum of all of the positives ones. Example [1,-4,7,12] => 1 + 7 + 12 = 20 */
+//SOLUTION
+function positiveSum(arr){
+  let sum = 0;
+  for (let i = 1; i < sum.length; i++){
+      if (arr[i] > 0){
+          sum += arr[i]
+      }
+  }
+  return sum
+}
+
