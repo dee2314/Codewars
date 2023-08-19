@@ -1,4 +1,5 @@
 function getDivisorsCnt(n){
+    //todo
     var num = 0;
     if(n === 1) return 1;
     if(n % Math.sqrt(n) === 0) num++;
