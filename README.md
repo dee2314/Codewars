@@ -14,4 +14,4 @@ I optimize my code with time and knowledge for maximum efficiency and readabilit
 
 ## Lessons Learned:
 
-"I've understood that complex problems often come with multiple potential solutions. Embracing humility, I see myself as a lifelong learner, always open to a multitude of solutions on my continuous journey."
+I've understood that complex problems often come with multiple potential solutions. Embracing humility, I see myself as a lifelong learner, always open to a multitude of solutions on my continuous journey.
