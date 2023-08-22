@@ -1,6 +1,5 @@
 # CodeWars Challenges: <a target="_blank" href="https://www.codewars.com/users/Dee__">Visit Here</a> 
 
-![alt tag](https://github.com/CharlesCreativeContent/CodeWars/blob/master/Screen%20Shot%202022-02-10%20at%202.54.15%20AM.png)
 A repository filled with Codewars challenges (kata). Push 5 solutions every week.
 
 ## How It's Made:
@@ -15,4 +14,4 @@ I optimize my code with time and knowledge for maximum efficiency and readabilit
 
 ## Lessons Learned:
 
-I've learned that problems with many solutions require being okay with not always having the best answer. Ego aside, I'm a lifelong learner with a never-ending tunnel of solutions heading straight for me. And I wouldn't have it any other way.
+"I've understood that complex problems often come with multiple potential solutions. Embracing humility, I see myself as a lifelong learner, always open to a multitude of solutions on my continuous journey."
