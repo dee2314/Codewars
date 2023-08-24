@@ -7,6 +7,7 @@ function sum(numbers) {
 }
 
 //SIMPLER METHOD
+//I like the optimization 
 function sum(numbers) {
     return numbers.reduce((a, b) => a + b, 0);
   }
