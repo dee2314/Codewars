@@ -23,3 +23,9 @@ function strCount(str, letter){
     return count
     
   };
+
+
+//OPTIMIZED SOLUTION
+function strCount(str, letter){  
+  return str.split(letter).length-1
+}
