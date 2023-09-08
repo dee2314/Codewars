@@ -29,3 +29,11 @@ function strCount(str, letter){
 function strCount(str, letter){  
   return str.split(letter).length-1
 }
+
+//Notes 
+/*Be sure to understand why split works a bit better. 
+ It works by splitting the string into an array using the specified letter as 
+ the delimiter and then counting the number of resulting segments minus one. 
+ The subtraction of 1 is necessary because 
+the split method splits the string at the specified delimiter, 
+and the number of resulting segments is one more than the count of occurrences.*/
