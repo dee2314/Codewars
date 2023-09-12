@@ -2,10 +2,11 @@
 //SOLUTION
 function positiveSum(arr){
     let sum = 0;
-    for (let i = 1; i < sum.length; i++){
-        if (arr[i] > 0){
-            sum += arr[i]
+    for (let i = 1; i < sum.length; i++){   // setup loop to go through array of given length
+        if (arr[i] > 0){                    // add arr[i] to total
+            sum += arr[i]                   // add arr[i] to total
         }
     }
-    return sum
+    return sum                              // return total
   }
+
