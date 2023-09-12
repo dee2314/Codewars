@@ -8,5 +8,5 @@ Write a function calculating circumference of a Circle.
 Tests round answers to 6 decimal points.
  */
 
-//SOLUTION
+//SOLUTION FOR PROBLEM 
 const circleCircumference = circle => 2 * Math.PI * circle.radius;

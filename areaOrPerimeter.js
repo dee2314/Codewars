@@ -5,7 +5,7 @@ If it is a square, return its area. If it is a rectangle, return its perimeter.
 Example(Input1, Input2 --> Output):
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 const areaOrPerimeter = function(length, width) {
     if (length === width) {
       // It's a square, return its area
@@ -14,4 +14,4 @@ const areaOrPerimeter = function(length, width) {
       // It's a rectangle, return its perimeter
       return 2 * (length + width);
     }
-  };
+  };s
