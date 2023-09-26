@@ -19,7 +19,8 @@ function sumTwoSmallestNumbers(numbers) {
 This gives us the smallest value in the array, and we store it in the variable first.
 
 2. Next, we locate the index of the first smallest number in the numbers array using numbers.indexOf(first). 
-We then remove it from the array using splice. This ensures that the smallest number is no longer part of the array, so we can find the second smallest number.
+We then remove it from the array using splice. This ensures that the smallest number is no longer part of the array, 
+so we can find the second smallest number.
 
 3. After removing the first smallest number, we again use Math.min(...numbers) to find the smallest number in the modified numbers array,
  and we store it in the variable second.
