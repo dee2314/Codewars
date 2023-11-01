@@ -14,3 +14,6 @@ function grow(x) {
       return accumulator * currentValue;
     });
   }
+
+//SHORTER SOLUTION
+const grow=x=> x.reduce((a,b) => a*b);
