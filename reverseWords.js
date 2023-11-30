@@ -19,3 +19,8 @@ function reverseWords(str) {
   return reversedString;
 }
 
+//A SHORTER AND MORE CONCISE SOLUTION
+function reverseWords(str){
+  return str.split(' ').reverse().join(' ');
+}
+
