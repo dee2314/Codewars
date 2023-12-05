@@ -12,4 +12,4 @@ function duckDuckGoose(players, goose) {
   
     // Return the name of the chosen Player
     return players[gooseIndex].name;
-  }
+}
