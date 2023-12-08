@@ -13,4 +13,4 @@ function removeUrlAnchor(url) {
     
     // If '#' is found, extract the substring before it; otherwise, return the original URL
     return index !== -1 ? url.substring(0, index) : url;
-  }
+}
