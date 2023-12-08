@@ -11,4 +11,4 @@ Examples
 function shortcut(string) {
     // Use regular expression to remove lowercase vowels
     return string.replace(/[aeiou]/g, '');
-  }
+}
