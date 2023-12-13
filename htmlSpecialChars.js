@@ -8,7 +8,7 @@ form fields which may contain malicious code
 (e.g. a redirection to a malicious website that steals personal information). */
 
 //SOLUTION
-function htmlSpecialChars(formData) {
+function htmlspecialchars(formData) {
     if (typeof formData !== 'string') {
       throw new Error('Input must be a string');
     }
