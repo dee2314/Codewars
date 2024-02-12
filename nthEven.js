@@ -12,7 +12,7 @@ The input will not be 0.
 
  */
 
-//SOLUTION
+//SOLUTION AND DETAILS
 function nthEven(n) {
     return (n * 2) - 2;
   }
