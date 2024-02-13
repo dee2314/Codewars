@@ -8,7 +8,7 @@ Example:
 move(3, 6) should equal 15 
  */
 
-//SOLUTION
+//SOLUTION AND DETAIL
 function move(position, roll) {
     let newPosition = position + (roll * 2);
   
