@@ -10,7 +10,7 @@ Examples:(Input --> Output)
 114 --> -1 since 114 is not a perfect square   
  */
 
-//SOLUTION
+//SOLUTION FOR TODAY
 function findNextSquare(sq) {
     // Check if the square root is an integer
     let sqrt = Math.sqrt(sq);
