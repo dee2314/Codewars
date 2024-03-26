@@ -1,7 +1,7 @@
 /**
  * This series of katas will introduce you to basics of doing geometry with computers.
 
-Write the function circleArea/CircleArea which takes in a Circle object and calculates the area of that circle.
+Write the itty bitty function circleArea/CircleArea which takes in a Circle object and calculates the area of that circle.
 The Circle class can be seen below:
 
 // Represents a Circle where center is a Point and radius is a Number
