@@ -30,7 +30,7 @@ class Woman extends Human {
 
 class God {
     /**
-     * @returns Human[]
+     * @returns Human{}
      */
     static create() {
         const adam = new Man('Adam');
