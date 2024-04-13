@@ -3,7 +3,7 @@
  * and returns the player's new health. Health can't be less than 0.
  */
 
-//SOLUTION
+//SOLUTION FOR MY PROBLEM
 function combat(health, damage) {
     const newHealth = health - damage;
     return newHealth < 0 ? 0 : newHealth;
