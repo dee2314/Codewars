@@ -2,7 +2,7 @@
 Your task is to sum the differences between consecutive pairs in the array in descending order.
  */
 
-  //SOLUTION
+  //SOLUTION fOR THE PROBLEM PLEASE
   function sumOfDifferences(arr) {
     // Sort the array in descending order
     const sortedArr = arr.sort((a, b) => b - a);
