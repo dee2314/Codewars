@@ -9,7 +9,7 @@ For example: (Input --> Output)
 Let's assume that all numbers in the input will be integer values.
  */
 
-//SOLUTION
+//SOLUTION FOR PROBLEM
 function sumDigits(number) {
     // Convert number to string to easily access each digit
     const numberString = Math.abs(number).toString();
