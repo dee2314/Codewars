@@ -10,7 +10,7 @@ function squareSum(numbers){
   }
 
 
-//BREAKDOWN
+//BREAKDOWN OF ANSWERS
 /** 1. We start by initializing a variable sum to 0. This variable will be used to accumulate the sum of the squares.
 
 2. Next, we use a for loop to iterate through the numbers array. The loop runs from i = 0 to i < numbers.length, 
