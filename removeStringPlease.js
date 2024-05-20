@@ -11,5 +11,5 @@ Examples
 "Hi"      ---> "Hi!"
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 const remove = s => s.replace(/!+/g, "")+"!";
