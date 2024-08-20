@@ -24,3 +24,21 @@ If you make it, return "Alive!", if not, return "Shark Bait!".
  */
 
 //SOLUTION
+function shark(pontoonDistance, sharkDistance, youSpeed, sharkSpeed, dolphin) {
+
+    if (dolphin) {
+      sharkSpeed /= 2;
+    }
+  
+    const yourTime = pontoonDistance / youSpeed;
+  
+  
+    const sharkTime = sharkDistance / sharkSpeed;
+  
+  
+    if (yourTime < sharkTime) {
+      return "Alive!";
+    } else {
+      return "Shark Bait!";
+    }
+  }
