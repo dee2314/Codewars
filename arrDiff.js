@@ -7,7 +7,7 @@ If a value is present in b, all of its occurrences must be removed from the othe
 
 arrayDiff([1,2,2,2,3],[2]) == [1,3] */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function arrayDiff(a, b) {
     // Use the filter method to create a new array containing elements from 'a'
     // that are not present in 'b'
