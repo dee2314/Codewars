@@ -6,7 +6,7 @@ Write a function that accepts arbitrary X and Y resolutions and converts them in
 This kata is part of a series with Aspect Ratio Cropping - Part 2 .
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function aspectRatio(x,y){
     return [Math.ceil(y*16/9), y];
     }
