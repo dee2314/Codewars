@@ -22,7 +22,7 @@ class Point {
 }
  */
 
-//SOLUTION PARA LA PROBLEMA POR HOY
+//SOLUTION PARA LA PROBLEMA POR HOY Y MANANA
 function circleArea(circle) {
     // Assuming circle has a center with x and y attributes, and a radius.
     const radius = circle.radius;
