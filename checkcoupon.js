@@ -12,7 +12,7 @@ Examples:
  */
 
 
-//SOLUTION POR LA PROBLEMA
+//SOLUTION POR LA PROBLEMA PARA HOY
 function checkCoupon(enteredCode, correctCode, currentDate, expirationDate) {
 
     if (enteredCode !== correctCode) {
