@@ -13,7 +13,7 @@ A list may contain multiple flicks.
 Switch the boolean value on the same element as the flick itself.
  */
 
-//SOLUTION
+//SOLUTION POR LA PROBLEMA
 function flickSwitch(arr) {
     let shouldToggle = true; // Start with true because the first element should be true
     
