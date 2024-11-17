@@ -11,7 +11,7 @@ Examples
 "Buckethead" is an anagram of "DeathCubeK"
  */
 
-//SOLUTION
+//SOLUTION POR LA PROBLEMA
 var isAnagram = function(test, original) {
     // Convert both strings to lowercase to make the comparison case-insensitive
     test = test.toLowerCase();
