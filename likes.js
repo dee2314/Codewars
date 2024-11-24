@@ -11,7 +11,7 @@ Implement the function which takes an array containing the names of people that 
 Note: For 4 or more names, the number in "and 2 others" simply increases.
 */
 
-//SOLUTION
+//SOLUTION POR LA PROBLEMA
 function likes(names) {
     const length = names.length;
   
