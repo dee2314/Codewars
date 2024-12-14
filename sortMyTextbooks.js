@@ -4,7 +4,7 @@
 The sorting should NOT be case sensitive
  */
 
-//SOLUTION
+//SOLUTION POR LAY HOY
 function sorter(textbooks) {
     return [...textbooks].sort((a, b) => {
       a = a.toLowerCase();
