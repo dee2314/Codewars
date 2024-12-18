@@ -14,7 +14,7 @@ Examples:
  */
 
 
-//SOLUTION
+//SOLUTION FOR THE DAY
 function capitalizeWord(word) {
     return word[0].toUpperCase() + word.slice(1);
   }
