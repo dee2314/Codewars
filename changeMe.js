@@ -8,7 +8,7 @@ The machine accepts these coins and notes: £5, £2, £1, 50p, 20p. Any coins an
 This change machine is programmed to accept and distribute strings rather than numbers. The change will be returned as one string with the change separated by single spaces & no commas. The values of the string will be descending.
  */
 
-//SOLUTION
+//SOLUTION FOR THE DAY
 function changeMe(moneyIn){
     switch (moneyIn) {
       case '£5':
