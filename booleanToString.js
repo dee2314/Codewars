@@ -4,7 +4,7 @@ Implement a function which convert the given boolean value into its string repre
 Note: Only valid inputs will be given.
 */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function booleanToString(b){
   return b.toString()
 }
