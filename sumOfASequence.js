@@ -18,7 +18,7 @@ Sum of a Sequence [Hard-Core Version]
  */
 
 
-//SOLUTION
+//SOLUTION OF THE PROBLEM
 const sequenceSum = (begin, end, step) => {
 
     if (begin > end) {
