@@ -7,7 +7,7 @@ Examples (Input -> Output)
 Expect large Inputs!
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function oddCount(n) {
     return Math.floor(n / 2);
   }
