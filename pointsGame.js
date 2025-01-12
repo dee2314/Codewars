@@ -19,7 +19,7 @@ our team always plays 10 matches in the championship
 0 <= y <= 4
 */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM 2025
 function points(games) {
   let totalPoints = 0;
 
