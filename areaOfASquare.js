@@ -7,7 +7,7 @@ Note: use the π value provided in your language (Math::PI, M_PI, math.pi, etc)
  */
 
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function squareArea(A) {
     const radius = (2 * A) / Math.PI; // Calculate the radius of the circle
     const side = radius; // The side of the square equals the radius of the circle
