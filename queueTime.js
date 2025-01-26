@@ -12,7 +12,7 @@ Please look at the examples and clarifications below, to ensure you understand t
  */
 
 
-//SOLUTION
+//SOLUTION FOR THR PROBLEM
 function queueTime(customers, n) {
     if (customers.length === 0) return 0;
     let tills = Array(n).fill(0);
