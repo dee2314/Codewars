@@ -8,7 +8,8 @@ For example
 Input sequence contains minimum two elements and every element is an integer.
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
+
 function largestPairSum(numbers) {
 
     numbers.sort((a, b) => b - a);
