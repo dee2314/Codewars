@@ -11,7 +11,8 @@ Examples (Input --> Output)
 [1]         --> [1,1]
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
+
 function minMax(arr) {
     return [Math.min(...arr), Math.max(...arr)];
   }
