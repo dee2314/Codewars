@@ -8,7 +8,7 @@ If the input string is empty, return an empty string. The words in the input Str
 Examples
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function order(words) {
     return words
       .split(" ")
