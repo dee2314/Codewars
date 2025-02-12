@@ -7,7 +7,7 @@ Example
 ""             =>  ""
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function solution(string) {
     return string.replace(/([A-Z])/g, " $1");
   }
