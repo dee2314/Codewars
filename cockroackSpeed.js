@@ -3,7 +3,7 @@
  * rounded down to the integer (= floored).*/
 
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function cockroachSpeed(s) {
     //Good Luck!
     const speedInCmPerSec = Math.floor(s * 100000 / 3600);
