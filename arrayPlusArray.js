@@ -4,7 +4,7 @@
 P.S. Each array includes only integer numbers. Output is a number too.
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function arrayPlusArray(arr1, arr2) {
     // Concatenate the two arrays and use reduce to calculate the sum
     const sum = arr1.concat(arr2).reduce((acc, num) => acc + num, 0);
