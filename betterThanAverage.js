@@ -22,7 +22,7 @@ function betterThanAverage(classPoints, yourPoints) {
   return yourPoints > classAverage;
 }
 
-//A EVEN BETTER SOLUTION POR LA PROBLEMA
+//A EVEN BETTER SOLUTION POR LA PROBLEMA TODAY
 function betterThanAverage(classPoints, yourPoints) {
   return yourPoints > classPoints.reduce((a, b) => a + b, 0) / classPoints.length; 
 }
