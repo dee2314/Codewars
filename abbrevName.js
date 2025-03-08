@@ -21,7 +21,7 @@ function abbrevName(name) {
     return initials;
   }
 
-// A SPICIER SOLUTION
+// A SPICIER SOLUTION FOR THE PROBLEM
 function abbrevName(name){
 
   var nameArray = name.split(" ");
