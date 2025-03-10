@@ -9,6 +9,8 @@ O is misinterpreted as 0
 I is misinterpreted as 1
 The test cases contain numbers only by mistake*/
 
+//SOLUTION
+
 function correct(string){
 	// your code here
   string = string.replace(/5/g, 'S');
