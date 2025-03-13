@@ -8,7 +8,7 @@ Your task is to write a function that takes a String and returns an Array/list w
 
 Note: String will have at least one element; words will always be separated by a space. */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM TODAY
 function addLength(str) {
     //start-here
      return str.split(" ").map(s => `${s} ${s.length}`)
