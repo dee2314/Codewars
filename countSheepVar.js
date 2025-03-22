@@ -7,7 +7,7 @@ Given a non-negative integer, 3 for example, return a string with a murmur:
  * 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 var countSheep = function(num) {
     let result = '';
     
