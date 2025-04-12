@@ -7,5 +7,5 @@ Example output:
 Hello, Mr. Spock
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 const sayHello = name => `Hello, ${name}`;
