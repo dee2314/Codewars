@@ -9,7 +9,7 @@ O is misinterpreted as 0
 I is misinterpreted as 1
 The test cases contain numbers only by mistake*/
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 
 function correct(string){
 	// your code here
