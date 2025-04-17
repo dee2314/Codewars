@@ -28,7 +28,7 @@ Examples
 (5,7,0,0) ➞ true
  */
 
-//SOLUTION FOR THE PROBLEM TODAY
+//SOLUTION FOR THE PROBLEM TODAY YAY!
 function collinearity( x1,y1, x2,y2 ) {
   
   
