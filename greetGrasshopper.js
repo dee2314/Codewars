@@ -8,7 +8,7 @@ name equals owner	'Hello boss'
 otherwise	'Hello guest'
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function greet (name, owner){
     if (name === owner){
         return 'Hello boss'
