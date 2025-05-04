@@ -10,7 +10,7 @@ isIsogram "Dermatoglyphics" = true
 isIsogram "moose" = false
 isIsogram "aba" = false*/
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function isIsogram(str){
     var i, j;
     str = str.toLowerCase();
