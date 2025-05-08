@@ -23,7 +23,7 @@ For everything else, don't return anything (return null in C#, None in Rust, and
  * 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function HQ9(code) {
     switch(code) {
       case 'H': return 'Hello World!';
