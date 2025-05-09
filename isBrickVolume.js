@@ -8,7 +8,7 @@ rimLength - length from bottle top to brick (always < bottleLength);
 And return volume of ice brick that magician managed to put into a bottle.
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function iceBrickVolume(radius, bottleLength, rimLength) {
     var brickLength = bottleLength - rimLength;
     var brickDepth = radius*2;
