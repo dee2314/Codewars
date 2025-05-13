@@ -17,7 +17,7 @@ Examples
 90, 2  -->  "30x^3"
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function integrate(coefficient, exponent) {
     const newCoefficient = coefficient / (exponent + 1);
     const newExponent = exponent + 1;
