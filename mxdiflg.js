@@ -14,7 +14,7 @@ input : 2 strings with substrings separated by ,
 output: number as a string
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function mxdiflg(a1, a2) {
     if (a1.length === 0 || a2.length === 0) return -1;
 
