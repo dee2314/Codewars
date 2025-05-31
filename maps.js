@@ -9,7 +9,7 @@ function maps(arr){
   return arr.map(n => n * 2)
  }
 
-//BREAKDOWN
+//BREAKDOWN FOR THE PROBLEM 
 /**This function, maps, takes an array as its input and is designed to double each element in the array. It does this using the map method.
 
 1. Inside the function, we use the map method on the input array arr. 
