@@ -15,5 +15,5 @@ function grow(x) {
     });
   }
 
-//SHORTER SOLUTION
+//SHORTER SOLUTION FOR THE PROBLEM
 const grow=x=> x.reduce((a,b) => a*b);
