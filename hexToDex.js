@@ -4,7 +4,7 @@
 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function hexToDec(hexString) {
     return parseInt(hexString, 16);
   }
