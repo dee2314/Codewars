@@ -14,7 +14,7 @@ Your function should only return a number, not the explanation about how you get
  */
 
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function getSum(a, b) {
     // If a and b are equal, return a (or b, since they are the same)
     if (a === b) {
