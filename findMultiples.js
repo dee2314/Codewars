@@ -4,7 +4,7 @@
 For example, if the parameters passed are (2, 6), the function should return [2, 4, 6] as 2, 4, and 6 are the multiples of 2 up to 6.
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function findMultiples(integer, limit) {
     const multiples = [];
     for (let i = integer; i <= limit; i += integer) {
