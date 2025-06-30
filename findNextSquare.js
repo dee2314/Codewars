@@ -10,7 +10,8 @@ Examples:(Input --> Output)
 114 --> -1 since 114 is not a perfect square   
  */
 
-//SOLUTION POR LA HOY
+//SOLUTION POR LA HOY, YAY
+
 
 function findNextSquare(sq) {
     // Check if the square root is an integer
