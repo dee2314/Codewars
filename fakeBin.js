@@ -4,7 +4,7 @@
 Note: input will never be an empty string*/
 
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function fakeBin(x) {
     let result = ''; // Initialize an empty string to store the result
     for (let i = 0; i < x.length; i++) {
