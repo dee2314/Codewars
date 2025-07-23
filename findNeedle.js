@@ -1,4 +1,4 @@
-/*Can you find the needle in the haystack?
+/*Can you find the needle in the haystack? Can you?
 
 Write a function findNeedle() that takes an array full of junk but containing one "needle"
     
