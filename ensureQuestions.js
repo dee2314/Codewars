@@ -7,7 +7,7 @@ For example (Input --> Output)
 "No?" --> "No?"
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function ensureQuestion(s) {
     if (s.endsWith("?")) {
       return s;
