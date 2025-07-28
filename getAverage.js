@@ -9,7 +9,7 @@ The array will never be empty.
  * 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function getAverage(marks) {
     const sum = marks.reduce((acc, mark) => acc + mark, 0);
     const average = sum / marks.length;
