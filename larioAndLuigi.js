@@ -13,7 +13,7 @@ Example
 Input:  1,3,5,6,7,8 Output: 1,2,3,4,5,6,7,8
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function pipeFix(numbers) {
   let min = numbers[0];
   let max = numbers[numbers.length - 1];
