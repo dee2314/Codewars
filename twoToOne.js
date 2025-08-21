@@ -10,7 +10,7 @@ a = "abcdefghijklmnopqrstuvwxyz"
 longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBELM!
 function longest(s1, s2) {
   return [...new Set(s1 + s2)]  // merge and remove duplicates
     .sort()                     // sort alphabetically
