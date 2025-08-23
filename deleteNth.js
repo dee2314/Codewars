@@ -9,7 +9,7 @@ For example if the input number is 2, and the input list is [1,2,3,1,2,1,2,3], y
 With list [20,37,20,21] and number 1, the result would be [20,37,21].
  */
 
-//SOLUTION FOR PROBLEM
+//SOLUTION FOR PROBLEM! 
 function deleteNth(arr, n) {
   const counts = {};
   const result = [];
