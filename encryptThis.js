@@ -3,7 +3,7 @@
 // There are no special characters in the input. Examples:
 //  */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM!
 var encryptThis = function(text) {
   return text
     .split(" ")
