@@ -15,7 +15,7 @@ For example, a multiplication table (string) for number == 5 looks like below:
 10 * 5 = 50
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function multiTable(number) {
     let table = '';
   
