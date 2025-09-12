@@ -18,7 +18,7 @@ the k*k that contain the digit 1 are:
 So there are 11 digits 1 for the squares of numbers between 0 and 25.
  */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM!
 function nbDig(n, d) {
     let count = 0;
     let digit = d.toString(); // Convert digit to string for easy comparison
