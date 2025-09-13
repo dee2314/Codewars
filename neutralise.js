@@ -6,7 +6,7 @@ When negatives and negatives interact, they remain negative.
 When negatives and positives interact, they become neutral, and are shown as the number 0.
 */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM!
 function neutralise(s1, s2) {
   if (s1.length !== s2.length) {
     // Handle strings of different lengths, if needed
