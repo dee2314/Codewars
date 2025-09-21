@@ -8,7 +8,7 @@ Your task is to be more like Chuck (ha! good luck!). You must return false witho
 Go show some truth who's boss!
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function ifChuckSaysSo() {
     return !true;
   }
