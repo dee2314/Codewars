@@ -7,7 +7,7 @@ multiply(0) == 0 # 0 * 5¹
 multiply(-3) == -15 # -3 * 5¹
  */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM!
 function multiply(number) {
     if (number === 0) {
       return 0;
