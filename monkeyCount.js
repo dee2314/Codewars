@@ -6,7 +6,7 @@ As a good parent, you will sit and count with him. Given the number (n), populat
 For example(Input --> Output):
  */
 
-//SOLUTION FOR THE PROBLEM
+//SOLUTION FOR THE PROBLEM!
 function monkeyCount(n) {
     const result = [];
   
