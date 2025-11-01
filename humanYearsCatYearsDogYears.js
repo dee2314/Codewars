@@ -25,7 +25,7 @@ http://www.slate.com/articles/news_and_politics/explainer/2009/05/a_dogs_life.ht
 If you liked this Kata there is another related one here
  */
 
-//SOLUTION FOR THE DAY (MAKE A CHANGE)
+//SOLUTION FOR THE DAY (MAKE A CHANGE/UPDATE)
 var humanYearsCatYearsDogYears = function(humanYears) {
     let catYears, dogYears;
   
