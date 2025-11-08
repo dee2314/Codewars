@@ -7,7 +7,7 @@ it through the use of XSS (Cross Site Scripting). This is done by injecting scri
 form fields which may contain malicious code 
 (e.g. a redirection to a malicious website that steals personal information). */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function htmlspecialchars(formData) {
     if (typeof formData !== 'string') {
       throw new Error('Input must be a string');
