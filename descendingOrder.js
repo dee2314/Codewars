@@ -11,7 +11,7 @@ Input: 123456789 Output: 987654321
  */
 
 
-//SOLUTION FOR THE PROBLEM!
+//SOLUTION FOR THE PROBLEM!!
 function descendingOrder(n) {
 
     let digits = n.toString().split('');
