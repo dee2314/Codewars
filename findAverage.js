@@ -6,7 +6,7 @@ Note: Empty arrays should return 0.
 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function findAverage(array) {
     if (array.length === 0) {
       return 0;
