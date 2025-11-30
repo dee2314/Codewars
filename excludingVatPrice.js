@@ -13,7 +13,7 @@ Round the result to 2 decimal places.
 If null value given then return -1
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function excludingVatPrice(price){
     if (price === null) {
       return -1;
