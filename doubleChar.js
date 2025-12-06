@@ -6,7 +6,7 @@ Examples (Input -> Output):
 * "1234!_ "     -> "11223344!!__  "*/
 
 
-//SOLUTION FOR THE PROBLEM! 
+//SOLUTION FOR THE PROBLEM
 function doubleChar(str) {
     // Your code here
     let result = '';
