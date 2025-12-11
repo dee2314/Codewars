@@ -11,7 +11,7 @@ function greet(name){
     return "Hello, my love!";
 }
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM
 function greet(name) {
   if (name === 'Johnny') {
     return 'Hello, my love!';
