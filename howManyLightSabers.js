@@ -13,7 +13,7 @@ For example(Input --> Output):
 "Zach" --> 18
  */
 
-//SOLUTION
+//SOLUTION FOR LA PROBLEMA!
 function howManyLightsabersDoYouOwn(name = "") {
     if (name === "Zach") {
       return 18;
