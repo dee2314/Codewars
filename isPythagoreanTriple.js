@@ -20,7 +20,7 @@ For JavaScript: return true or false
 Other languages: return 1 or 0 or refer to Sample Tests.
  */
 
-//SOLUTION POR LA PROBLEMA
+//SOLUTION POR LA PROBLEMA!
 function isPythagoreanTriple(integers) {
     // Sort the array in ascending order
     integers.sort((a, b) => a - b);
