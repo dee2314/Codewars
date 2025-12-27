@@ -10,7 +10,7 @@ Complete the function to return his total number of goals in all three leagues.
 Note: the input will always be valid.
  */
 
-//SOLUTION
+//SOLUTION FOR THE P
 function goals(laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
     return laLigaGoals + copaDelReyGoals + championsLeagueGoals;
   }
