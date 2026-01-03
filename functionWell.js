@@ -7,7 +7,7 @@ If there are one or two good ideas, return 'Publish!', if there are more than 2 
 If there are no good ideas, as is often the case, return 'Fail!'.
  */
 
-//SOLUTION
+//SOLUTION!
 function well(x) {
     // Count the number of 'good' ideas
     const goodIdeasCount = x.filter(idea => idea === 'good').length;
