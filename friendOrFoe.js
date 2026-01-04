@@ -11,7 +11,7 @@ Note: keep the original order of the names in the output.
 
  */
  
-//SOLUTION
+//SOLUTION FOR THE PROBLEMA!
 function friend(friends){
     //your code here
     let friendNames = [];
