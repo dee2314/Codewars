@@ -4,7 +4,7 @@ and strings and returns a new list with the strings filtered out.
 */
 
 
-//SOLUTION FOR THE PROBLEM!
+//SOLUTION FOR THE PROBLEM!!
 function filter_list(l) {
   const result = [];
 
