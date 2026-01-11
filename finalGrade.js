@@ -24,7 +24,7 @@ Examples(Inputs-->Output):
 *Use Comparison and Logical Operators.
  */
 
-//SOLUTION FOR THE PROBLEM!
+//SOLUTION FOR THE PROBLEM!!
 function finalGrade(exam, projects) {
     if (exam > 90 || projects > 10) {
       return 100;
