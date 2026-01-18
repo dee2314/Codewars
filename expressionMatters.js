@@ -21,7 +21,7 @@ You cannot swap the operands. For instance, in the given example you cannot get 
 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function expressionMatter(a, b, c) {
     // Try all possible combinations and return the maximum value
     const max1 = a * (b + c);
