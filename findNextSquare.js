@@ -10,7 +10,7 @@ Examples:(Input --> Output)
 114 --> -1 since 114 is not a perfect square   
  */
 
-//SOLUTION POR LA HOY, YAY
+//SOLUTION POR LA HOY, YAY!
 
 
 function findNextSquare(sq) {
