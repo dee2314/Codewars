@@ -11,7 +11,7 @@ In the case where both elevators are equally distant from the called floor, choo
 You can assume that the inputs will always be valid integers between 0-2.
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function elevator(left, right, call) {
     const distanceToLeft = Math.abs(left - call);
     const distanceToRight = Math.abs(right - call);
