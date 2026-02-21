@@ -8,7 +8,7 @@ Another example: if a bottle costs £12 normally and the duty free discount is 5
 
 All inputs will be integers. Please return an integer. Round down.*/
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function dutyFree(normPrice, discount, hol) {
     const savingsPerBottle = (normPrice * discount) / 100;
   
