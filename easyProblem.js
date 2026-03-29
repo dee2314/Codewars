@@ -4,7 +4,7 @@
  */
 
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function problem(x) {
     // Check if the input is a string
     if (typeof x === 'string') {
