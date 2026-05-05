@@ -11,7 +11,7 @@ Assertion messages may be unclear about what they display in some languages. If 
  */
 
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function duplicateEncode(word) {
   
     word = word.toLowerCase();
