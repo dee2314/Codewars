@@ -19,7 +19,7 @@ Input coordinates fit in range
 
  */
 
-//SOLUTION
+//SOLUTION FOR THE PROBLEM!
 function distanceBetweenPoints(a, b) {
     const deltaX = b.x - a.x;
     const deltaY = b.y - a.y;
