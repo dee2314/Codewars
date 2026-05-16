@@ -8,7 +8,7 @@ Note: only positive integers will be tested.
 https://en.wikipedia.org/wiki/Triangle
  */
 
-//SOLUTION FOR THE PROBLEM 2025
+//SOLUTION FOR THE PROBLEM 2026!
 function otherAngle(a, b) {
     return 180 - a - b;
   }
