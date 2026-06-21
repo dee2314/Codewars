@@ -11,7 +11,7 @@ With the numbers are 1, 2 and 3 , here are some ways of placing signs and bracke
 (1 + 2) * 3 = 9
 So the maximum value that you can obtain is 9.
 
-Notes
+Notes for me!
 The numbers are always positive.
 The numbers are in the range (1  ≤  a, b, c  ≤  10).
 You can use the same operation more than once.
