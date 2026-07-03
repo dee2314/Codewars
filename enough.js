@@ -22,4 +22,4 @@ function enough(cap, on, wait) {
     } else {
       return wait - availableSpace; // Return the number of passengers who can't take the bus
     }
-  }
+  }git st
