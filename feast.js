@@ -11,8 +11,8 @@ beast and dish may contain hyphens and spaces, but these will not appear at the 
 They will not contain numerals.
  */
 
-//SOLUTION FOR THE PROBLEM!
-function feast(beast, dish) {
+//SOLUTION FOR THE PROBLEM!!
+// function feast(beast, dish) {
     const firstLetterBeast = beast.charAt(0);
     const lastLetterBeast = beast.charAt(beast.length - 1);
     
