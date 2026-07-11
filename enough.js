@@ -13,7 +13,8 @@ If there is enough space, return 0, and if there isn't, return the number of pas
 Usage Examples:
  */
 
-//SOLUTION FOR THE PROBLEM!!! YUP
+//SOLUTION FOR THE PROBLEM!!!
+
 function enough(cap, on, wait) {
     const availableSpace = cap - on;
   
